@@ -12,7 +12,7 @@ function App() {
       </nav>
       {section === 'resume' ? (
         <div className="resume-container">
-          <h1>KALVA SRI VARUN</h1>
+          <h1>SRI VARUN KALVA</h1>
           <div className="resume-grid">
             <section className="left">
               <h2>Contact</h2>
